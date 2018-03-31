@@ -1,0 +1,17 @@
+######################################################################################## Script\Index1.txt
+	Copyright (c) 2010-2018 Tata Consultancy Services Limited. All Rights Reserved.  	# Script\Index1.txt
+	* Unauthorised access, copying and replication are prohibited.			            # Script\Index1.txt
+																						# Script\Index1.txt
+ Author:   TCS                                                                         # Script\Index1.txt
+ The Property file for OmniStore BO  DB	                                            # Script\Index1.txt
+ OmniStore 7.4				                                                            # Script\Index1.txt
+######################################################################################## Script\Index1.txt
+MNISTORE_BUNDLE_HOME,F: Script\Index1.txt
+OSTGRES_HOME,C:\Program;Files\PostgreSQL\9.5 Script\Index1.txt
+OST,172.18.226.168 Script\Index1.txt
+ATABASE_PORT,5432 Script\Index1.txt
+TORE_DB,BO Script\Index1.txt
+SER_NAME,postgres Script\Index1.txt
+YMMETRICDS_HOME,F:\Updated Script Script\Index1.txt
+ode_ID,1112100 Script\Index1.txt
+ngine.name,bo-postgres Script\Index1.txt
